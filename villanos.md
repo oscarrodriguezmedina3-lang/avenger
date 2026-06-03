@@ -2,4 +2,5 @@ villanos
 
 * dr. domm
 * red skul
-* dr rodriguez
+* dr rodriguez 
+* jose gregorio
